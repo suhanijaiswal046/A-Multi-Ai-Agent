@@ -1,0 +1,25 @@
+
+# Secrets
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+myenv/
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local databases
+agno.db
+
+# IDE and OS files
+.vscode/
+.DS_Store
+Thumbs.db
